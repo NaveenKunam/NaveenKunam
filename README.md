@@ -8,14 +8,14 @@ I'm a Software Engineer with 4 years of experience in building scalable APIs, cl
 
 ### 🚀 Tech Stack & Skills
 
-**Programming Languages**:  Java, Python, C++, C, JavaScript, C# 
-**Frameworks**: Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, JEE (J2EE), Angular, React, Django, Flask, FastAPI 
-**Web Development**: HTML, CSS, TypeScript, JSON, XML, Bootstrap, jQuery, Redux, Webpack 
-**Cloud Platforms & Services**: AWS (EC2, S3, Lambda, RDS, DynamoDB, Elastic Beanstalk, CloudWatch) 
-**DevOps & CI/CD**: Git, Jenkins, Kubernetes, Docker, Terraform, GitOps, Maven, Gradle 
-**Databases**: SQL (MySQL, PostgreSQL, SQL Server), NoSQL (MongoDB, Cassandra, DynamoDB), PL/SQL(Oracle), Redis, JDBC 
-**Software Design & Architecture**: Microservices, RESTful APIs, GraphQL, OOD/OOP, MVC, Hexagonal & Layered Architecture, DDD 
-**Testing & Quality Assurance**: Unit Testing (JUnit), Test-Driven Development (TDD), Postman, Mockito, AssertJ, TestContainers 
+**Programming Languages**:  Java, Python, C++, C, JavaScript, C# <br>
+**Frameworks**: Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, JEE (J2EE), Angular, React, Django, Flask, FastAPI <br>
+**Web Development**: HTML, CSS, TypeScript, JSON, XML, Bootstrap, jQuery, Redux, Webpack <br>
+**Cloud Platforms & Services**: AWS (EC2, S3, Lambda, RDS, DynamoDB, Elastic Beanstalk, CloudWatch) <br>
+**DevOps & CI/CD**: Git, Jenkins, Kubernetes, Docker, Terraform, GitOps, Maven, Gradle <br>
+**Databases**: SQL (MySQL, PostgreSQL, SQL Server), NoSQL (MongoDB, Cassandra, DynamoDB), PL/SQL(Oracle), Redis, JDBC <br>
+**Software Design & Architecture**: Microservices, RESTful APIs, GraphQL, OOD/OOP, MVC, Hexagonal & Layered Architecture, DDD <br>
+**Testing & Quality Assurance**: Unit Testing (JUnit), Test-Driven Development (TDD), Postman, Mockito, AssertJ, TestContainers <br>
 **Agile & Collaboration Tools**: Agile/Scrum Methodologies, JIRA, Git, Linux, Windows, iOS
 
 ---
