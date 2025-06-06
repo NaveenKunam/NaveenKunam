@@ -34,7 +34,7 @@ GPA: 9.5/10
 
 ### 🌐 Let’s Connect!
 
-- 📫 [Email](nrkunam@gmail.com)
+- 📫 Email: nrkunam@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kunam-naveen/)  
 - 💻 [GitHub](https://github.com/NaveenKunam)
 
