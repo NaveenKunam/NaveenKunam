@@ -18,6 +18,18 @@ I'm a Software Engineer with 4 years of experience in building scalable APIs, cl
 **Testing & Quality Assurance**: Unit Testing (JUnit), Test-Driven Development (TDD), Postman, Mockito, AssertJ, TestContainers <br>
 **Agile & Collaboration Tools**: Agile/Scrum Methodologies, JIRA, Git, Linux, Windows, iOS
 
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`Java` &nbsp;|&nbsp; `Spring Boot` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `Python`
+
+**Databases & Cloud**  
+`PostgreSQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `AWS (S3, EC2, Elastic Beanstalk, CloudWatch)` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kafka` &nbsp;|&nbsp; `SQS`
+
+**Tools & Practices**  
+`Git` &nbsp;|&nbsp; `Jenkins` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `JUnit` &nbsp;|&nbsp; `Mockito` &nbsp;|&nbsp; `TDD` &nbsp;|&nbsp; `Agile` &nbsp;|&nbsp; `CI/CD` &nbsp;|&nbsp; `VSCode` &nbsp;|&nbsp; `IntelliJ`
+
+
 ---
 
 ### 📚 Education
