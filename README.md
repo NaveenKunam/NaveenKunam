@@ -6,29 +6,34 @@ I'm a Software Engineer with 4 years of experience in building scalable APIs, cl
 
 ---
 
-### 🚀 Tech Stack & Skills
-
-**Programming Languages**:  Java, Python, C++, C, JavaScript, C# <br>
-**Frameworks**: Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, JEE (J2EE), Angular, React, Django, Flask, FastAPI <br>
-**Web Development**: HTML, CSS, TypeScript, JSON, XML, Bootstrap, jQuery, Redux, Webpack <br>
-**Cloud Platforms & Services**: AWS (EC2, S3, Lambda, RDS, DynamoDB, Elastic Beanstalk, CloudWatch) <br>
-**DevOps & CI/CD**: Git, Jenkins, Kubernetes, Docker, Terraform, GitOps, Maven, Gradle <br>
-**Databases**: SQL (MySQL, PostgreSQL, SQL Server), NoSQL (MongoDB, Cassandra, DynamoDB), PL/SQL(Oracle), Redis, JDBC <br>
-**Software Design & Architecture**: Microservices, RESTful APIs, GraphQL, OOD/OOP, MVC, Hexagonal & Layered Architecture, DDD <br>
-**Testing & Quality Assurance**: Unit Testing (JUnit), Test-Driven Development (TDD), Postman, Mockito, AssertJ, TestContainers <br>
-**Agile & Collaboration Tools**: Agile/Scrum Methodologies, JIRA, Git, Linux, Windows, iOS
-
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`Java` &nbsp;|&nbsp; `Spring Boot` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `Python`
+**Programming Languages**  
+`Java` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `C++` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `C#`
 
-**Databases & Cloud**  
-`PostgreSQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `AWS (S3, EC2, Elastic Beanstalk, CloudWatch)` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kafka` &nbsp;|&nbsp; `SQS`
+**Frameworks**  
+`Spring Boot` &nbsp;|&nbsp; `Spring MVC` &nbsp;|&nbsp; `Spring Security` &nbsp;|&nbsp; `Hibernate` &nbsp;|&nbsp; `JPA` &nbsp;|&nbsp; `JEE (J2EE)` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Django` &nbsp;|&nbsp; `Flask` &nbsp;|&nbsp; `FastAPI`
 
-**Tools & Practices**  
-`Git` &nbsp;|&nbsp; `Jenkins` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `JUnit` &nbsp;|&nbsp; `Mockito` &nbsp;|&nbsp; `TDD` &nbsp;|&nbsp; `Agile` &nbsp;|&nbsp; `CI/CD` &nbsp;|&nbsp; `VSCode` &nbsp;|&nbsp; `IntelliJ`
+**Web Development**  
+`HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `JSON` &nbsp;|&nbsp; `XML` &nbsp;|&nbsp; `Bootstrap` &nbsp;|&nbsp; `jQuery` &nbsp;|&nbsp; `Redux` &nbsp;|&nbsp; `Webpack`
 
+**Cloud Platforms & Services**  
+`AWS (EC2, S3, Lambda, RDS, DynamoDB, Elastic Beanstalk, CloudWatch)`
+
+**DevOps & CI/CD**  
+`Git` &nbsp;|&nbsp; `Jenkins` &nbsp;|&nbsp; `Kubernetes` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Terraform` &nbsp;|&nbsp; `GitOps` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `Gradle`
+
+**Databases**  
+`SQL (MySQL, PostgreSQL, SQL Server)` &nbsp;|&nbsp; `NoSQL (MongoDB, Cassandra, DynamoDB)` &nbsp;|&nbsp; `PL/SQL (Oracle)` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `JDBC`
+
+**Software Design & Architecture**  
+`Microservices` &nbsp;|&nbsp; `RESTful APIs` &nbsp;|&nbsp; `GraphQL` &nbsp;|&nbsp; `OOD/OOP` &nbsp;|&nbsp; `MVC` &nbsp;|&nbsp; `Hexagonal & Layered Architecture` &nbsp;|&nbsp; `DDD`
+
+**Testing & Quality Assurance**  
+`Unit Testing (JUnit)` &nbsp;|&nbsp; `Test-Driven Development (TDD)` &nbsp;|&nbsp; `Postman` &nbsp;|&nbsp; `Mockito` &nbsp;|&nbsp; `AssertJ` &nbsp;|&nbsp; `TestContainers`
+
+**Agile & Collaboration Tools**  
+`Agile/Scrum Methodologies` &nbsp;|&nbsp; `JIRA` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Linux` &nbsp;|&nbsp; `Windows` &nbsp;|&nbsp; `iOS`
 
 ---
 
