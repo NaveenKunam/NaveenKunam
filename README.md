@@ -6,34 +6,22 @@ I'm a Software Engineer with 4 years of experience in building scalable APIs, cl
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Programming Languages**  
-`Java` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `C++` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `C#`
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
 
-**Frameworks**  
-`Spring Boot` &nbsp;|&nbsp; `Spring MVC` &nbsp;|&nbsp; `Spring Security` &nbsp;|&nbsp; `Hibernate` &nbsp;|&nbsp; `JPA` &nbsp;|&nbsp; `JEE (J2EE)` &nbsp;|&nbsp; `Angular` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Django` &nbsp;|&nbsp; `Flask` &nbsp;|&nbsp; `FastAPI`
+**Frameworks:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-**Web Development**  
-`HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `JSON` &nbsp;|&nbsp; `XML` &nbsp;|&nbsp; `Bootstrap` &nbsp;|&nbsp; `jQuery` &nbsp;|&nbsp; `Redux` &nbsp;|&nbsp; `Webpack`
-
-**Cloud Platforms & Services**  
-`AWS (EC2, S3, Lambda, RDS, DynamoDB, Elastic Beanstalk, CloudWatch)`
-
-**DevOps & CI/CD**  
-`Git` &nbsp;|&nbsp; `Jenkins` &nbsp;|&nbsp; `Kubernetes` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Terraform` &nbsp;|&nbsp; `GitOps` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `Gradle`
-
-**Databases**  
-`SQL (MySQL, PostgreSQL, SQL Server)` &nbsp;|&nbsp; `NoSQL (MongoDB, Cassandra, DynamoDB)` &nbsp;|&nbsp; `PL/SQL (Oracle)` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `JDBC`
-
-**Software Design & Architecture**  
-`Microservices` &nbsp;|&nbsp; `RESTful APIs` &nbsp;|&nbsp; `GraphQL` &nbsp;|&nbsp; `OOD/OOP` &nbsp;|&nbsp; `MVC` &nbsp;|&nbsp; `Hexagonal & Layered Architecture` &nbsp;|&nbsp; `DDD`
-
-**Testing & Quality Assurance**  
-`Unit Testing (JUnit)` &nbsp;|&nbsp; `Test-Driven Development (TDD)` &nbsp;|&nbsp; `Postman` &nbsp;|&nbsp; `Mockito` &nbsp;|&nbsp; `AssertJ` &nbsp;|&nbsp; `TestContainers`
-
-**Agile & Collaboration Tools**  
-`Agile/Scrum Methodologies` &nbsp;|&nbsp; `JIRA` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Linux` &nbsp;|&nbsp; `Windows` &nbsp;|&nbsp; `iOS`
+**Cloud / DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
